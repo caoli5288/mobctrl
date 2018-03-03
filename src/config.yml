@@ -1,0 +1,3 @@
+list:
+  - mob_type: ZOMBIE
+    max_health: 20
